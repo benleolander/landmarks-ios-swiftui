@@ -17,6 +17,7 @@
 		DB376A6023DA4A4D001B701C /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB376A5F23DA4A4D001B701C /* LandmarksUITests.swift */; };
 		DB789E1A23E8AF5B008122DC /* turtlerock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DB789E1923E8AF5B008122DC /* turtlerock.jpg */; };
 		DB789E1C23E8AF99008122DC /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB789E1B23E8AF99008122DC /* CircleImage.swift */; };
+		DB789E1E23E8B10B008122DC /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB789E1D23E8B10B008122DC /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		DB376A6123DA4A4D001B701C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DB789E1923E8AF5B008122DC /* turtlerock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = turtlerock.jpg; sourceTree = "<group>"; };
 		DB789E1B23E8AF99008122DC /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		DB789E1D23E8B10B008122DC /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				DB376A3F23DA4A4B001B701C /* SceneDelegate.swift */,
 				DB376A4123DA4A4B001B701C /* ContentView.swift */,
 				DB789E1B23E8AF99008122DC /* CircleImage.swift */,
+				DB789E1D23E8B10B008122DC /* MapView.swift */,
 				DB376A4323DA4A4D001B701C /* Assets.xcassets */,
 				DB376A4823DA4A4D001B701C /* LaunchScreen.storyboard */,
 				DB376A4B23DA4A4D001B701C /* Info.plist */,
@@ -276,6 +279,7 @@
 			files = (
 				DB376A3E23DA4A4B001B701C /* AppDelegate.swift in Sources */,
 				DB789E1C23E8AF99008122DC /* CircleImage.swift in Sources */,
+				DB789E1E23E8B10B008122DC /* MapView.swift in Sources */,
 				DB376A4023DA4A4B001B701C /* SceneDelegate.swift in Sources */,
 				DB376A4223DA4A4B001B701C /* ContentView.swift in Sources */,
 			);
